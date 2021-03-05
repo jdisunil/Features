@@ -1,0 +1,10 @@
+Juypter wikipedia
+GitHub is cloud  
+git is local
+
+#git commands:-
+For setup
+git config --global user.name 'Sunil Ksheersagar'
+git config --global user.email 'jdi.sunil@gmail.com'
+git config --global core.autocrlf true
+git config --global --list
